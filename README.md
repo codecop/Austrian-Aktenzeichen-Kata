@@ -1,4 +1,4 @@
-# Das Österreiche Aktenzeichen
+# Das Österreichische Aktenzeichen
 
 Practice your object oriented design skills on the Austrian Aktenzeichen.
 
